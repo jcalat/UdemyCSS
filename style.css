@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    background-color: aqua;
+}
+
+
+
+.box{
+   width: 200px ;
+   height: 100px;
+   
+
+}
+
+.box1{
+    
+    background: steelblue;
+    margin: auto;
+}
+.box2{
+    background: tomato;
+}
