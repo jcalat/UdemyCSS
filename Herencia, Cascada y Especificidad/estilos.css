@@ -41,9 +41,12 @@
     font-size: 25px;
     border: inherit;
     padding: inherit;
-    text-align: initial;
+    /* text-align: initial; */
     color: initial;
     font-family: initial;
+}
+h2{
+    text-align: center;
 }
 
 
